@@ -2,7 +2,7 @@
 
 # ❄️ icyblooms 🌸
 
-### Frontend-leaning JS/TS developer — building clean things, one commit at a time
+### JS/TS developer — building clean things, one commit at a time
 
 </div>
 
